@@ -59,6 +59,7 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/require-default-props": "off",
+    "no-useless-constructor": "off",
     "react/jsx-filename-extension": [
       1,
       {
